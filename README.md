@@ -135,9 +135,9 @@ I'm flying a short distance
 
 ## 4. 运行截图 + 图注
 
-> 请将你的终端运行截图保存到：`./docs/run-output.png`
+<img width="264" height="332" alt="image" src="https://github.com/user-attachments/assets/512c2499-8604-438e-9558-1f61d19ae08e" />
 
-![运行截图：Adapter 输出示例](./docs/run-output.png)
+
 
 **图 1 图注：**
 `test_duck` 只按 `Duck` 接口编程，但传入 `TurkeyAdapter` 后依然可工作；输出中的 `Gobble gobble` 与 5 次短距离飞行，说明了**接口已被成功适配而无需修改客户端**。
